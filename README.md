@@ -29,6 +29,6 @@ AircrackCluster helps you crack passwords faster.
 
 ## Usage
 0. build [AircrackCluster-Server](https://github.com/hurrhnn/AircrackCluster-Server) and run at server first.
-1. run `java -jar AircrackCluster-Client-1.0-all.jar [IP or Hostname] 6974` to connect to server.
+1. run `java -jar AircrackCluster-Client-1.0-all.jar [IP or Hostname] 3845` to connect to server.
 2. Use the [AircrackCluster-Client](https://github.com/hurrhnn/AircrackCluster-Client/tree/master/build/libs) to connect to the server.
 3. When all nodes are connected, each node starts cracking.
